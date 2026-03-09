@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "entry_1772818364099_ve4ble",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මට අද හරිම සතුටුයි. මම විභාගයට හොඳට මුහුන දුන්න",
+    "translated_transcript": "මට අද හරිම සතුටුයි. මම විභාගයට හොඳට මුහුන දුන්න",
+    "emotion_label": "happy",
+    "confidence": 0.44,
+    "recommendations_en": [
+      "Note what went well today.",
+      "Share your success with someone.",
+      "Set a small goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "අද හොඳට ගිය දේ ලියාගන්න.",
+      "ඔබගේ සාර්ථකත්වය බෙදාගන්න.",
+      "හෙටට පොඩි ඉලක්කයක් තබාගන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T17:32:44.099Z"
+  },
+  {
+    "id": "entry_1772790659627_wqq9i8",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "Today I am so happy because I passed an exam",
+    "translated_transcript": "Today I am so happy because I passed an exam",
+    "emotion_label": "happy",
+    "confidence": 0.45,
+    "recommendations_en": [
+      "Note what went well today.",
+      "Share your success with someone.",
+      "Set a small goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "අද හොඳට ගිය දේ ලියාගන්න.",
+      "ඔබගේ සාර්ථකත්වය බෙදාගන්න.",
+      "හෙටට පොඩි ඉලක්කයක් තබාගන්න."
+    ],
+    "voice_file": "uploads/voice/1772790648155_k8gbao9sdjc.m4a",
+    "createdAt": "2026-03-06T09:50:59.628Z"
+  },
+  {
+    "id": "entry_1772790701015_heo9no",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "අද හරිම සතුටුයි",
+    "translated_transcript": "අද හරිම සතුටුයි",
+    "emotion_label": "happy",
+    "confidence": 0.429,
+    "recommendations_en": [
+      "Note what went well today.",
+      "Share your success with someone.",
+      "Set a small goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "අද හොඳට ගිය දේ ලියාගන්න.",
+      "ඔබගේ සාර්ථකත්වය බෙදාගන්න.",
+      "හෙටට පොඩි ඉලක්කයක් තබාගන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T09:51:41.015Z"
+  },
+  {
+    "id": "entry_1772790740247_xuicln",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "අද හරිම සතුටුයි",
+    "translated_transcript": "අද හරිම සතුටුයි",
+    "emotion_label": "happy",
+    "confidence": 0.429,
+    "recommendations_en": [
+      "Note what went well today.",
+      "Share your success with someone.",
+      "Set a small goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "අද හොඳට ගිය දේ ලියාගන්න.",
+      "ඔබගේ සාර්ථකත්වය බෙදාගන්න.",
+      "හෙටට පොඩි ඉලක්කයක් තබාගන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T09:52:20.247Z"
+  },
+  {
+    "id": "entry_1772790790684_qxp6j9",
+    "userId": "demo-user",
+    "inputType": "corrected_text",
+    "language": "si",
+    "original_transcript": "අද හරිම අමාරුවෙන් ඉන්නේ",
+    "translated_transcript": "අද හරිම අමාරුවෙන් ඉන්නේ",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T09:53:10.684Z"
+  },
+  {
+    "id": "entry_1772791326564_9tdqa1",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "අද හරිම සතුටුයි",
+    "translated_transcript": "අද හරිම සතුටුයි",
+    "emotion_label": "happy",
+    "confidence": 0.429,
+    "recommendations_en": [
+      "Note what went well today.",
+      "Share your success with someone.",
+      "Set a small goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "අද හොඳට ගිය දේ ලියාගන්න.",
+      "ඔබගේ සාර්ථකත්වය බෙදාගන්න.",
+      "හෙටට පොඩි ඉලක්කයක් තබාගන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T10:02:06.564Z"
+  },
+  {
+    "id": "entry_1772816229830_1u6x2l",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "I am so depressed today because I had exams.",
+    "translated_transcript": "I am so depressed today because I had exams.",
+    "emotion_label": "sad",
+    "confidence": 0.436,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": "uploads/voice/1772816220345_eoy7lmol1er.m4a",
+    "createdAt": "2026-03-06T16:57:09.831Z"
+  },
+  {
+    "id": "entry_1772816359779_y04bio",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මම අද ලොකු දුකකින් ඉන්නේ. මට හරිම අමාරුයි",
+    "translated_transcript": "මම අද ලොකු දුකකින් ඉන්නේ. මට හරිම අමාරුයි",
+    "emotion_label": "sad",
+    "confidence": 0.437,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T16:59:19.779Z"
+  },
+  {
+    "id": "entry_1772818719310_0vs3d1",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "My vehicle accident today and I got admitted to the hospital",
+    "translated_transcript": "My vehicle accident today and I got admitted to the hospital",
+    "emotion_label": "sad",
+    "confidence": 0.441,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": "uploads/voice/1772818713060_5nj56nby9ut.m4a",
+    "createdAt": "2026-03-06T17:38:39.310Z"
+  },
+  {
+    "id": "entry_1772818845238_wj0yoe",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මට අද තුවාල උනා. මං රෝහලේ සිටියා",
+    "translated_transcript": "මට අද තුවාල උනා. මං රෝහලේ සිටියා",
+    "emotion_label": "sad",
+    "confidence": 0.436,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T17:40:45.238Z"
+  },
+  {
+    "id": "entry_1772819338559_az3o51",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "I lost my friendship today. A close friendship.",
+    "translated_transcript": "I lost my friendship today. A close friendship.",
+    "emotion_label": "happy",
+    "confidence": 0.431,
+    "recommendations_en": [
+      "Note what went well today.",
+      "Share your success with someone.",
+      "Set a small goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "අද හොඳට ගිය දේ ලියාගන්න.",
+      "ඔබගේ සාර්ථකත්වය බෙදාගන්න.",
+      "හෙටට පොඩි ඉලක්කයක් තබාගන්න."
+    ],
+    "voice_file": "uploads/voice/1772819330399_2mgc8tiqsr4.m4a",
+    "createdAt": "2026-03-06T17:48:58.559Z"
+  },
+  {
+    "id": "entry_1772819374200_wf5nel",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "I lost my dog.",
+    "translated_transcript": "I lost my dog.",
+    "emotion_label": "sad",
+    "confidence": 0.427,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": "uploads/voice/1772819370500_garixopnpvs.m4a",
+    "createdAt": "2026-03-06T17:49:34.200Z"
+  },
+  {
+    "id": "entry_1772819424265_f6i9md",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මට අද හරිම මහන්සි",
+    "translated_transcript": "මට අද හරිම මහන්සි",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T17:50:24.266Z"
+  },
+  {
+    "id": "entry_1772823862854_jyyywz",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I feel stressed because of exams and deadlines.",
+    "translated_transcript": "I feel stressed because of exams and deadlines.",
+    "display_text": "I feel stressed because of exams and deadlines.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T19:04:22.856Z"
+  },
+  {
+    "id": "entry_1772823901839_77yzzv",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I feel stressed because of exams and deadlines.",
+    "translated_transcript": "I feel stressed because of exams and deadlines.",
+    "display_text": "I feel stressed because of exams and deadlines.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T19:05:01.839Z"
+  },
+  {
+    "id": "entry_1772824798331_j3r747",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I feel stressed because of exams and deadlines.",
+    "translated_transcript": "I feel stressed because of exams and deadlines.",
+    "display_text": "I feel stressed because of exams and deadlines.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T19:19:58.331Z"
+  },
+  {
+    "id": "entry_1772824823764_93ptlf",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I feel lonely and no one understands me.",
+    "translated_transcript": "I feel lonely and no one understands me.",
+    "display_text": "I feel lonely and no one understands me.",
+    "emotion_label": "sad",
+    "confidence": 0.431,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T19:20:23.764Z"
+  },
+  {
+    "id": "entry_1772824917128_0k110p",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "I feel stress because of exams.",
+    "translated_transcript": "I feel stress because of exams.",
+    "display_text": "I feel stress because of exams.",
+    "emotion_label": "sad",
+    "confidence": 0.44,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": "uploads/voice/1772824900717_echu9lp34bi.m4a",
+    "createdAt": "2026-03-06T19:21:57.129Z"
+  },
+  {
+    "id": "entry_1772825291833_adaqu7",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "I feel so stressed because I had exams today.",
+    "translated_transcript": "I feel so stressed because I had exams today.",
+    "display_text": "I feel so stressed because I had exams today.",
+    "emotion_label": "sad",
+    "confidence": 0.44,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": "uploads/voice/1772825234702_5o01sjr1qf.m4a",
+    "createdAt": "2026-03-06T19:28:11.833Z"
+  },
+  {
+    "id": "entry_1772827129238_rqcogq",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "Today I passed an exam. I'm so happy",
+    "translated_transcript": "Today I passed an exam. I'm so happy",
+    "display_text": "Today I passed an exam. I'm so happy",
+    "emotion_label": "happy",
+    "confidence": 0.442,
+    "recommendations_en": [
+      "Note what went well today.",
+      "Share your success with someone.",
+      "Set a small goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "අද හොඳට ගිය දේ ලියාගන්න.",
+      "ඔබගේ සාර්ථකත්වය බෙදාගන්න.",
+      "හෙටට පොඩි ඉලක්කයක් තබාගන්න."
+    ],
+    "voice_file": "uploads/voice/1772827118947_47445exyovj.m4a",
+    "createdAt": "2026-03-06T19:58:49.238Z"
+  },
+  {
+    "id": "entry_1772827716018_mgwbcc",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "I feel so stressed today because I had exams.",
+    "translated_transcript": "I feel so stressed today because I had exams.",
+    "display_text": "I feel so stressed today because I had exams.",
+    "emotion_label": "sad",
+    "confidence": 0.436,
+    "recommendations_en": [
+      "It's understandable to feel stressed after exams. Acknowledge your hard work.",
+      "Unwind with something you enjoy, like listening to music or a short walk.",
+      "Focus on getting some good rest tonight to recharge your mind."
+    ],
+    "recommendations_si": [
+      "විභාග ඉවරයි. දැන් ටිකක් විවේක ගන්න.",
+      "ඔබ කැමති දෙයක් කරලා මනස සන්සුන් කරගන්න.",
+      "මේ හැඟීම් ගැන කතා කරන්න, නැත්නම් ලියන්න."
+    ],
+    "voice_file": "uploads/voice/1772827698857_jx2ofvhkrt.m4a",
+    "createdAt": "2026-03-06T20:08:36.019Z"
+  },
+  {
+    "id": "entry_1772827786853_248vzm",
+    "userId": "demo-user",
+    "inputType": "voice",
+    "language": "en",
+    "original_transcript": "I am so happy today because I selected for the list",
+    "translated_transcript": "I am so happy today because I selected for the list",
+    "display_text": "I am so happy today because I selected for the list",
+    "emotion_label": "happy",
+    "confidence": 0.444,
+    "recommendations_en": [
+      "Celebrate this wonderful news! You've earned it.",
+      "Reflect on what made this possible. What strengths did you use?",
+      "Share your joy with someone who will celebrate with you."
+    ],
+    "recommendations_si": [
+      "මේ අපූරු හැඟීම භුක්ති විඳින්න!",
+      "ඔබේ ජයග්‍රහණය සමරන්න!",
+      "මේ සතුට අන් අය සමඟ බෙදාගන්න!"
+    ],
+    "voice_file": "uploads/voice/1772827773252_pgp5biji59a.m4a",
+    "createdAt": "2026-03-06T20:09:46.853Z"
+  },
+  {
+    "id": "entry_1772827853299_8dqptz",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මට අද සතුටුයි ගොඩක්",
+    "translated_transcript": "මට අද සතුටුයි ගොඩක්",
+    "display_text": "Transcript unavailable - please use corrected or typed text.",
+    "emotion_label": "happy",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Savor this wonderful feeling!",
+      "Think about what made you so happy today.",
+      "Consider sharing your joy with someone close to you."
+    ],
+    "recommendations_si": [
+      "මේ සතුටුදායක හැඟීම විඳින්න.",
+      "ඔබේ සතුටට හේතු වූ දේවල් ගැන හිතන්න.",
+      "ඔබේ සතුට අන් අය සමඟ බෙදාගන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T20:10:53.299Z"
+  },
+  {
+    "id": "entry_1772827910083_s4vu2o",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මම අද තුවාල උනා",
+    "translated_transcript": "මම අද තුවාල උනා",
+    "display_text": "Transcript unavailable - please use corrected or typed text.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Give yourself gentle space and time to rest.",
+      "Do something comforting that brings you a sense of peace.",
+      "Allow yourself to feel your emotions without judgment."
+    ],
+    "recommendations_si": [
+      "ඔබට විවේක ගැනීමට සහ සුවය ලැබීමට කාලය දෙන්න.",
+      "විශ්වාසවන්ත කෙනෙකු සමඟ ඔබේ හැඟීම් බෙදා ගන්න.",
+      "ඔබට සැනසිල්ලක් ගෙන දෙන යමක් කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-06T20:11:50.084Z"
+  },
+  {
+    "id": "entry_1772899897650_qcc3yq",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I had a quiz today. I did it not very well.",
+    "translated_transcript": "I had a quiz today. I did it not very well.",
+    "display_text": "I had a quiz today. I did it not very well.",
+    "emotion_label": "sad",
+    "confidence": 0.445,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:11:37.650Z"
+  },
+  {
+    "id": "entry_1772899928988_4x6u2m",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I had a quiz today. I did it well.",
+    "translated_transcript": "I had a quiz today. I did it well.",
+    "display_text": "I had a quiz today. I did it well.",
+    "emotion_label": "sad",
+    "confidence": 0.439,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:12:08.988Z"
+  },
+  {
+    "id": "entry_1772900236669_p01gkv",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මට අද කෙනෙක් බැන්නා",
+    "translated_transcript": "මට අද කෙනෙක් බැන්නා",
+    "display_text": "Transcript unavailable - please use corrected or typed text.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:17:16.669Z"
+  },
+  {
+    "id": "entry_1772900236679_2vihjo",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මට අද කෙනෙක් බැන්නා",
+    "translated_transcript": "මට අද කෙනෙක් බැන්නා",
+    "display_text": "Transcript unavailable - please use corrected or typed text.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:17:16.679Z"
+  },
+  {
+    "id": "entry_1772900236718_180qa4",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මට අද කෙනෙක් බැන්නා",
+    "translated_transcript": "මට අද කෙනෙක් බැන්නා",
+    "display_text": "Transcript unavailable - please use corrected or typed text.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:17:16.718Z"
+  },
+  {
+    "id": "entry_1772900236953_6kk1tk",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මට අද කෙනෙක් බැන්නා",
+    "translated_transcript": "මට අද කෙනෙක් බැන්නා",
+    "display_text": "Transcript unavailable - please use corrected or typed text.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:17:16.953Z"
+  },
+  {
+    "id": "entry_1772900382873_gr87a4",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මම අද කෙනෙක්ට උදවු කර",
+    "translated_transcript": "මම අද කෙනෙක්ට උදවු කර",
+    "display_text": "Transcript unavailable - please use corrected or typed text.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:19:42.873Z"
+  },
+  {
+    "id": "entry_1772900396478_1g74za",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මම අද කෙනෙක්ට උදවු කර",
+    "translated_transcript": "මම අද කෙනෙක්ට උදවු කර",
+    "display_text": "Transcript unavailable - please use corrected or typed text.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:19:56.478Z"
+  },
+  {
+    "id": "entry_1772900399622_by3c0z",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "si",
+    "original_transcript": "මම අද කෙනෙක්ට උදවු කර",
+    "translated_transcript": "මම අද කෙනෙක්ට උදවු කර",
+    "display_text": "Transcript unavailable - please use corrected or typed text.",
+    "emotion_label": "sad",
+    "confidence": 0.433,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:19:59.622Z"
+  },
+  {
+    "id": "entry_1772901317512_ylmpan",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I helped a older women today to cross the road",
+    "translated_transcript": "I helped a older women today to cross the road",
+    "display_text": "I helped a older women today to cross the road",
+    "emotion_label": "happy",
+    "confidence": 0.471,
+    "recommendations_en": [
+      "Note what went well today.",
+      "Share your success with someone.",
+      "Set a small goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "අද හොඳට ගිය දේ ලියාගන්න.",
+      "ඔබගේ සාර්ථකත්වය බෙදාගන්න.",
+      "හෙටට පොඩි ඉලක්කයක් තබාගන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:35:17.513Z"
+  },
+  {
+    "id": "entry_1772901446014_64vh2x",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I passed an exam today",
+    "translated_transcript": "I passed an exam today",
+    "display_text": "I passed an exam today",
+    "emotion_label": "happy",
+    "confidence": 0.458,
+    "recommendations_en": [
+      "Break your work into one small task you can finish next.",
+      "Study for 25 minutes, then take a 5 minute break.",
+      "Write down the top 3 priorities for today."
+    ],
+    "recommendations_si": [
+      "Break your work into one small task you can finish next.",
+      "Study for 25 minutes, then take a 5 minute break.",
+      "Write down the top 3 priorities for today."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T16:37:26.014Z"
+  },
+  {
+    "id": "entry_1772903070025_wp54zx",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I am so excited today",
+    "translated_transcript": "I am so excited today",
+    "display_text": "I am so excited today",
+    "emotion_label": "happy",
+    "confidence": 0.463,
+    "recommendations_en": [
+      "Note what went well today.",
+      "Share your success with someone.",
+      "Set a small goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "අද හොඳට ගිය දේ ලියාගන්න.",
+      "ඔබගේ සාර්ථකත්වය බෙදාගන්න.",
+      "හෙටට පොඩි ඉලක්කයක් තබාගන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T17:04:30.025Z"
+  },
+  {
+    "id": "entry_1772903096125_dcx2y2",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I am so happy",
+    "translated_transcript": "I am so happy",
+    "display_text": "I am so happy",
+    "emotion_label": "happy",
+    "confidence": 0.44,
+    "recommendations_en": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T17:04:56.125Z"
+  },
+  {
+    "id": "entry_1772903205226_3uydev",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I am so happy",
+    "translated_transcript": "I am so happy",
+    "display_text": "I am so happy",
+    "emotion_label": "happy",
+    "confidence": 0.44,
+    "recommendations_en": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T17:06:45.226Z"
+  },
+  {
+    "id": "entry_1772903207284_znd30b",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I am so happy",
+    "translated_transcript": "I am so happy",
+    "display_text": "I am so happy",
+    "emotion_label": "happy",
+    "confidence": 0.44,
+    "recommendations_en": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T17:06:47.285Z"
+  },
+  {
+    "id": "entry_1772903207303_6ahz1x",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I am so happy",
+    "translated_transcript": "I am so happy",
+    "display_text": "I am so happy",
+    "emotion_label": "happy",
+    "confidence": 0.44,
+    "recommendations_en": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T17:06:47.303Z"
+  },
+  {
+    "id": "entry_1772903207458_5k08y5",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I am so happy",
+    "translated_transcript": "I am so happy",
+    "display_text": "I am so happy",
+    "emotion_label": "happy",
+    "confidence": 0.44,
+    "recommendations_en": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T17:06:47.458Z"
+  },
+  {
+    "id": "entry_1772903216244_0wlswb",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I am so happy",
+    "translated_transcript": "I am so happy",
+    "display_text": "I am so happy",
+    "emotion_label": "happy",
+    "confidence": 0.44,
+    "recommendations_en": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "recommendations_si": [
+      "Write down what helped this good moment happen.",
+      "Celebrate one small win from today.",
+      "Carry this positive energy into one goal for tomorrow."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T17:06:56.245Z"
+  },
+  {
+    "id": "entry_1772903249834_wxbmlm",
+    "userId": "demo-user",
+    "inputType": "corrected_text",
+    "language": "en",
+    "original_transcript": "I passsed an exam",
+    "translated_transcript": "I passsed an exam",
+    "display_text": "I passsed an exam",
+    "emotion_label": "sad",
+    "confidence": 0.45,
+    "recommendations_en": [
+      "Break your work into one small task you can finish next.",
+      "Study for 25 minutes, then take a 5 minute break.",
+      "Write down the top 3 priorities for today."
+    ],
+    "recommendations_si": [
+      "Break your work into one small task you can finish next.",
+      "Study for 25 minutes, then take a 5 minute break.",
+      "Write down the top 3 priorities for today."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T17:07:29.835Z"
+  },
+  {
+    "id": "entry_1772903271436_4feefh",
+    "userId": "demo-user",
+    "inputType": "text",
+    "language": "en",
+    "original_transcript": "I am so sad",
+    "translated_transcript": "I am so sad",
+    "display_text": "I am so sad",
+    "emotion_label": "sad",
+    "confidence": 0.432,
+    "recommendations_en": [
+      "Try slow breathing for 2 minutes.",
+      "Write one small action you can do next.",
+      "Talk to someone you trust."
+    ],
+    "recommendations_si": [
+      "මිනිත්තු 2ක් හුස්ම පාලනය කරන්න.",
+      "ඊළඟට කරන්න පුළුවන් පොඩි ක්‍රියාවක් ලියන්න.",
+      "ඔබ විශ්වාස කරන කෙනෙකු සමඟ කතා කරන්න."
+    ],
+    "voice_file": null,
+    "createdAt": "2026-03-07T17:07:51.437Z"
+  }
+]

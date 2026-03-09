@@ -1,0 +1,201 @@
+﻿id,text,language,label,source,accent
+1,අද මට positive feeling එකක් තියෙනවා,si,happy,app,colombo
+2,අද මට හිත අමාරුයි,si,sad,app,kandy
+3,Today I feel really good,en,happy,app,na
+4,I feel mentally tired today,en,sad,app,na
+5,අද මට energy ගොඩක් තියෙනවා,si,happy,app,colombo
+6,අද මට ටිකක් දුකයි,si,sad,app,kandy
+7,Today I feel really good,en,happy,app,na
+8,I feel emotionally drained,en,sad,app,na
+9,අද හරි සතුටු දවසක්,si,happy,app,matara
+10,අද මට පීඩනයක් දැනෙනවා,si,sad,app,kandy
+11,I feel calm and positive today,en,happy,app,na
+12,I feel upset about what happened,en,sad,app,na
+13,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,colombo
+14,අද මට hope ටිකක් අඩුයි,si,sad,app,kandy
+15,Today I feel really good,en,happy,app,na
+16,I feel upset about what happened,en,sad,app,na
+17,අද මගේ project එක සාර්ථකයි,si,happy,app,colombo
+18,අද මට hope ටිකක් අඩුයි,si,sad,app,colombo
+19,I had a great time with my friends,en,happy,app,na
+20,I feel stressed about my exams,en,sad,app,na
+21,අද මට හරි proud දැනෙනවා,si,happy,app,kandy
+22,අද මගේ හිත බරයි,si,sad,app,kandy
+23,I am grateful for today,en,happy,app,na
+24,I feel stressed about my exams,en,sad,app,na
+25,අද මගේ හිත සතුටින් තියෙනවා,si,happy,app,matara
+26,අද මගේ හිත බරයි,si,sad,app,matara
+27,I feel motivated and happy,en,happy,app,na
+28,I feel anxious about tomorrow,en,sad,app,na
+29,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,kandy
+30,අද මට lonely වගේ දැනෙනවා,si,sad,app,matara
+31,I feel motivated and happy,en,happy,app,na
+32,I feel emotionally drained,en,sad,app,na
+33,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,kandy
+34,අද මට motivation නැහැ,si,sad,app,matara
+35,I feel very joyful today,en,happy,app,na
+36,I feel stressed about my exams,en,sad,app,na
+37,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,matara
+38,අද මට lonely වගේ දැනෙනවා,si,sad,app,kandy
+39,I am grateful for today,en,happy,app,na
+40,I feel lonely tonight,en,sad,app,na
+41,අද මට energy ගොඩක් තියෙනවා,si,happy,app,matara
+42,අද මට stressed වගේ දැනෙනවා,si,sad,app,colombo
+43,I feel very joyful today,en,happy,app,na
+44,I feel discouraged today,en,sad,app,na
+45,අද මට energy ගොඩක් තියෙනවා,si,happy,app,kandy
+46,අද මට motivation නැහැ,si,sad,app,colombo
+47,I feel motivated and happy,en,happy,app,na
+48,I feel overwhelmed with work,en,sad,app,na
+49,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,colombo
+50,අද මට stressed වගේ දැනෙනවා,si,sad,app,matara
+51,I feel excited about life,en,happy,app,na
+52,I feel discouraged today,en,sad,app,na
+53,අද මට positive feeling එකක් තියෙනවා,si,happy,app,kandy
+54,අද මගේ හිත බරයි,si,sad,app,colombo
+55,I feel excited about life,en,happy,app,na
+56,I feel upset about what happened,en,sad,app,na
+57,අද මගේ project එක සාර්ථකයි,si,happy,app,colombo
+58,අද මට hope ටිකක් අඩුයි,si,sad,app,kandy
+59,I feel calm and positive today,en,happy,app,na
+60,I feel sad today,en,sad,app,na
+61,අද මට life එක ගැන සතුටුයි,si,happy,app,matara
+62,අද මට life එක ටිකක් අමාරුයි,si,sad,app,matara
+63,I feel very joyful today,en,happy,app,na
+64,I feel mentally tired today,en,sad,app,na
+65,අද මට positive feeling එකක් තියෙනවා,si,happy,app,matara
+66,අද මට motivation නැහැ,si,sad,app,matara
+67,I feel very happy today,en,happy,app,na
+68,I feel anxious about tomorrow,en,sad,app,na
+69,අද මගේ යාලුවෝ එක්ක හරි විනෝද උනා,si,happy,app,matara
+70,අද මට life එක ටිකක් අමාරුයි,si,sad,app,matara
+71,Today was a wonderful day,en,happy,app,na
+72,I feel sad today,en,sad,app,na
+73,අද හරි සතුටු දවසක්,si,happy,app,matara
+74,අද මට ටිකක් දුකයි,si,sad,app,matara
+75,I feel calm and positive today,en,happy,app,na
+76,I feel anxious about tomorrow,en,sad,app,na
+77,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,colombo
+78,අද මට mentally tired වගේ,si,sad,app,kandy
+79,I feel motivated and happy,en,happy,app,na
+80,I feel overwhelmed with work,en,sad,app,na
+81,අද මට ගොඩක් සතුටුයි,si,happy,app,matara
+82,අද මට hope ටිකක් අඩුයි,si,sad,app,colombo
+83,I feel very joyful today,en,happy,app,na
+84,Today I feel very down,en,sad,app,na
+85,අද මට energy ගොඩක් තියෙනවා,si,happy,app,kandy
+86,අද මට motivation නැහැ,si,sad,app,colombo
+87,Today was a wonderful day,en,happy,app,na
+88,I feel overwhelmed with work,en,sad,app,na
+89,අද මගේ යාලුවෝ එක්ක හරි විනෝද උනා,si,happy,app,kandy
+90,අද මට mentally tired වගේ,si,sad,app,kandy
+91,I feel very happy today,en,happy,app,na
+92,I feel sad today,en,sad,app,na
+93,අද මගේ යාලුවෝ එක්ක හරි විනෝද උනා,si,happy,app,colombo
+94,අද මට lonely වගේ දැනෙනවා,si,sad,app,matara
+95,I had a great time with my friends,en,happy,app,na
+96,I feel overwhelmed with work,en,sad,app,na
+97,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,kandy
+98,අද මට හිත අමාරුයි,si,sad,app,kandy
+99,Today was a wonderful day,en,happy,app,na
+100,I feel sad today,en,sad,app,na
+101,අද මට හරි proud දැනෙනවා,si,happy,app,colombo
+102,අද මට හිත අමාරුයි,si,sad,app,matara
+103,I feel excited about life,en,happy,app,na
+104,Today I feel very down,en,sad,app,na
+105,අද මට positive feeling එකක් තියෙනවා,si,happy,app,colombo
+106,අද මට hope ටිකක් අඩුයි,si,sad,app,colombo
+107,I feel very joyful today,en,happy,app,na
+108,I feel mentally tired today,en,sad,app,na
+109,අද මට positive feeling එකක් තියෙනවා,si,happy,app,kandy
+110,අද මට life එක ටිකක් අමාරුයි,si,sad,app,colombo
+111,I feel excited about life,en,happy,app,na
+112,I feel upset about what happened,en,sad,app,na
+113,අද මගේ හිත සතුටින් තියෙනවා,si,happy,app,matara
+114,අද මට mentally tired වගේ,si,sad,app,kandy
+115,Today I feel really good,en,happy,app,na
+116,I feel stressed about my exams,en,sad,app,na
+117,අද මට life එක ගැන සතුටුයි,si,happy,app,kandy
+118,අද මට හිත අමාරුයි,si,sad,app,matara
+119,I feel calm and positive today,en,happy,app,na
+120,I feel stressed about my exams,en,sad,app,na
+121,අද මගේ project එක සාර්ථකයි,si,happy,app,matara
+122,අද මට ටිකක් දුකයි,si,sad,app,matara
+123,I am grateful for today,en,happy,app,na
+124,I feel emotionally drained,en,sad,app,na
+125,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,kandy
+126,අද මට motivation නැහැ,si,sad,app,kandy
+127,Today I feel really good,en,happy,app,na
+128,I feel anxious about tomorrow,en,sad,app,na
+129,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,matara
+130,අද මට stressed වගේ දැනෙනවා,si,sad,app,kandy
+131,I feel proud of my work today,en,happy,app,na
+132,I feel anxious about tomorrow,en,sad,app,na
+133,අද හරි සතුටු දවසක්,si,happy,app,colombo
+134,අද මට motivation නැහැ,si,sad,app,colombo
+135,I am grateful for today,en,happy,app,na
+136,I feel lonely tonight,en,sad,app,na
+137,අද මගේ project එක සාර්ථකයි,si,happy,app,kandy
+138,අද මට life එක ටිකක් අමාරුයි,si,sad,app,matara
+139,I feel very joyful today,en,happy,app,na
+140,I feel lonely tonight,en,sad,app,na
+141,අද මගේ හිත සතුටින් තියෙනවා,si,happy,app,kandy
+142,අද මට mentally tired වගේ,si,sad,app,matara
+143,I feel calm and positive today,en,happy,app,na
+144,I feel upset about what happened,en,sad,app,na
+145,අද මට life එක ගැන සතුටුයි,si,happy,app,kandy
+146,අද මට පීඩනයක් දැනෙනවා,si,sad,app,colombo
+147,I feel very happy today,en,happy,app,na
+148,I feel discouraged today,en,sad,app,na
+149,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,kandy
+150,අද මට mentally tired වගේ,si,sad,app,colombo
+151,I feel very joyful today,en,happy,app,na
+152,I feel stressed about my exams,en,sad,app,na
+153,අද මගේ යාලුවෝ එක්ක හරි විනෝද උනා,si,happy,app,colombo
+154,අද මට හිත අමාරුයි,si,sad,app,colombo
+155,Today I feel really good,en,happy,app,na
+156,I feel mentally tired today,en,sad,app,na
+157,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,kandy
+158,අද මට mentally tired වගේ,si,sad,app,kandy
+159,I feel proud of my work today,en,happy,app,na
+160,I feel upset about what happened,en,sad,app,na
+161,අද මගේ project එක සාර්ථකයි,si,happy,app,matara
+162,අද මට lonely වගේ දැනෙනවා,si,sad,app,kandy
+163,I feel very joyful today,en,happy,app,na
+164,I feel discouraged today,en,sad,app,na
+165,අද මගේ යාලුවෝ එක්ක හරි විනෝද උනා,si,happy,app,matara
+166,අද මට stressed වගේ දැනෙනවා,si,sad,app,colombo
+167,I feel calm and positive today,en,happy,app,na
+168,I feel lonely tonight,en,sad,app,na
+169,අද හරි සතුටු දවසක්,si,happy,app,colombo
+170,අද මට පීඩනයක් දැනෙනවා,si,sad,app,colombo
+171,I had a great time with my friends,en,happy,app,na
+172,I feel upset about what happened,en,sad,app,na
+173,අද මට positive feeling එකක් තියෙනවා,si,happy,app,matara
+174,අද මට mentally tired වගේ,si,sad,app,colombo
+175,I feel proud of my work today,en,happy,app,na
+176,I feel discouraged today,en,sad,app,na
+177,අද හරි සතුටු දවසක්,si,happy,app,colombo
+178,අද මට පීඩනයක් දැනෙනවා,si,sad,app,colombo
+179,I feel very happy today,en,happy,app,na
+180,I feel overwhelmed with work,en,sad,app,na
+181,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,matara
+182,අද මට life එක ටිකක් අමාරුයි,si,sad,app,colombo
+183,I feel calm and positive today,en,happy,app,na
+184,I feel overwhelmed with work,en,sad,app,na
+185,අද මගේ යාලුවෝ එක්ක හරි විනෝද උනා,si,happy,app,matara
+186,අද මට පීඩනයක් දැනෙනවා,si,sad,app,matara
+187,I feel very joyful today,en,happy,app,na
+188,Today I feel very down,en,sad,app,na
+189,අද මට හරි හොඳ mood එකක් තියෙනවා,si,happy,app,colombo
+190,අද මට lonely වගේ දැනෙනවා,si,sad,app,kandy
+191,I feel very happy today,en,happy,app,na
+192,I feel stressed about my exams,en,sad,app,na
+193,අද මගේ project එක සාර්ථකයි,si,happy,app,kandy
+194,අද මට stressed වගේ දැනෙනවා,si,sad,app,kandy
+195,I feel proud of my work today,en,happy,app,na
+196,I feel emotionally drained,en,sad,app,na
+197,අද මට energy ගොඩක් තියෙනවා,si,happy,app,kandy
+198,අද මට hope ටිකක් අඩුයි,si,sad,app,colombo
+199,I feel proud of my work today,en,happy,app,na
+200,I feel stressed about my exams,en,sad,app,na
