@@ -32,7 +32,7 @@ CORS(app)
 # -------------------------
 # MongoDB connection
 # -------------------------
-MONGO_URI = "mongodb+srv://sajindu:saji1234@cluster0.bx77a.mongodb.net"  # replace with your Mongo URI
+MONGO_URI = ""  # replace with your Mongo URI
 DB_NAME = "stress"
 client = MongoClient(MONGO_URI)
 db = client[DB_NAME]
